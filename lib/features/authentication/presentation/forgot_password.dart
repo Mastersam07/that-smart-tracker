@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:routemaster/routemaster.dart';
-import 'package:smart_tracker/core/navigation/navigation.dart';
-import 'package:smart_tracker/res/colors.dart';
-import 'package:smart_tracker/res/res.dart';
-import 'package:smart_tracker/shared/widgets/app_button.dart';
-import 'package:smart_tracker/shared/widgets/app_form_field.dart';
-import 'package:smart_tracker/utils/sizer.dart';
-import 'package:smart_tracker/utils/utils.dart';
+import '../../../core/navigation/navigation.dart';
+import '../../../res/res.dart';
+import '../../../shared/widgets/app_button.dart';
+import '../../../shared/widgets/app_form_field.dart';
+import '../../../utils/sizer.dart';
+import '../../../utils/utils.dart';
 
 class ForgotPassword extends StatelessWidget {
   const ForgotPassword({Key? key}) : super(key: key);

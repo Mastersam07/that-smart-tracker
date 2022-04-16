@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:smart_tracker/res/res.dart';
-import 'package:smart_tracker/utils/sizer.dart';
+import '../../res/res.dart';
+import '../../utils/sizer.dart';
 
 class AppFormField extends StatelessWidget {
   const AppFormField({

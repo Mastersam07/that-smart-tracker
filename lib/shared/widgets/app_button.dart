@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smart_tracker/res/res.dart';
+import '../../res/res.dart';
 
 class AppButton extends StatelessWidget {
   const AppButton({

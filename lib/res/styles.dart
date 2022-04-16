@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:smart_tracker/utils/sizer.dart';
+import '../utils/sizer.dart';
 
 import 'colors.dart';
 

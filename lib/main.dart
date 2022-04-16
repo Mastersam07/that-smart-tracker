@@ -5,9 +5,9 @@ import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 import 'package:routemaster/routemaster.dart';
-import 'package:smart_tracker/core/navigation/navigation.dart';
-import 'package:smart_tracker/core/provider/theme_provider.dart';
-import 'package:smart_tracker/res/res.dart';
+import 'core/navigation/navigation.dart';
+import 'core/provider/theme_provider.dart';
+import 'res/res.dart';
 
 import 'core/services/storage/storage_service.dart';
 import 'di/locator.dart';

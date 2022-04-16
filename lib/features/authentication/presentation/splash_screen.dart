@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:routemaster/routemaster.dart';
-import 'package:smart_tracker/core/navigation/navigation.dart';
-import 'package:smart_tracker/shared/widgets/app_button.dart';
-import 'package:smart_tracker/utils/sizer.dart';
+import '../../../core/navigation/navigation.dart';
+import '../../../shared/widgets/app_button.dart';
+import '../../../utils/sizer.dart';
 import '../../../res/res.dart';
 
 class SplashScreen extends StatelessWidget {

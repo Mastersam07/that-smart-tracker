@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:routemaster/routemaster.dart';
-import 'package:smart_tracker/features/authentication/presentation/email_success.dart';
-import 'package:smart_tracker/features/authentication/presentation/forgot_password.dart';
-import 'package:smart_tracker/features/authentication/presentation/login_screen.dart';
-import 'package:smart_tracker/features/authentication/presentation/signup_screen.dart';
-import 'package:smart_tracker/features/authentication/presentation/splash_screen.dart';
+import '../../features/authentication/presentation/email_success.dart';
+import '../../features/authentication/presentation/forgot_password.dart';
+import '../../features/authentication/presentation/login_screen.dart';
+import '../../features/authentication/presentation/signup_screen.dart';
+import '../../features/authentication/presentation/splash_screen.dart';
 
 import 'not_found.dart';
 

@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:routemaster/routemaster.dart';
-import 'package:smart_tracker/core/navigation/navigation.dart';
-import 'package:smart_tracker/res/assets.dart';
-import 'package:smart_tracker/res/res.dart';
-import 'package:smart_tracker/shared/widgets/app_button.dart';
-import 'package:smart_tracker/utils/sizer.dart';
+import '../../../core/navigation/navigation.dart';
+import '../../../res/res.dart';
+import '../../../shared/widgets/app_button.dart';
+import '../../../utils/sizer.dart';
 
 class EmailSuccess extends StatefulWidget {
   const EmailSuccess({Key? key}) : super(key: key);

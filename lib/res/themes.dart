@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:smart_tracker/core/models/app_theme.dart';
+import '../core/models/app_theme.dart';
 import 'package:flutter/services.dart';
-import 'package:smart_tracker/res/res.dart';
+import 'res.dart';
 
 class AppThemes {
   static ThemeData main({
